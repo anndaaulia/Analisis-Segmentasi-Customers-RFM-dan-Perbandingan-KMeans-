@@ -45,4 +45,6 @@ Segmen Other berpotensi ditingkatkan dengan reaktivasi.
 - Perlu monitoring berkala (e.g., update segmentasi tiap kuartal) untuk menyesuaikan strategi dengan dinamika perilaku pelanggan.
 4. Eksperimen Strategi:
 - A/B Testing untuk rekomendasi seperti diskon vs free shipping pada segmen Other.
-
+## Contact 
+- Email : anandamaulidina2106@gmail.com
+- linkedin : ananda maulidina aulia
