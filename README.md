@@ -21,28 +21,28 @@ Perlu strategi untuk mencegah migrasi ke segmen "At Risk".
 3. Segmentasi K-Means vs RFM:
 Hasil K-Means mengelompokkan semua pelanggan ke Cluster 1 (nilai transaksi triliunan), tetapi RFM membedakan lebih detail (Champion/Loyal/Other).
 RFM lebih efektif untuk strategi pemasaran berbasis perilaku.
-Kesenjangan Nilai Pelanggan:
+4. Kesenjangan Nilai Pelanggan:
 Monetary segmen Champion (Rp180M) jauh lebih tinggi daripada Other (Rp106M), menunjukkan polarisasi nilai pelanggan.
 Segmen Other berpotensi ditingkatkan dengan reaktivasi.
 ## Rekomendasi Strategi
-Untuk Segmen Champion:
-Exclusive Benefits: Program VIP dengan diskon tiered atau cashback progresif.
-Personalized Engagement: Survey kepuasan untuk mempertahankan loyalitas.
-Untuk Segmen Loyal:
-Upselling berbasis Data: Rekomendasi produk premium berdasarkan histori belanja.
-Flash Sales: Batasi waktu promo untuk memicu aksi cepat.
-Untuk Segmen Other:
-Win-Back Campaign: Diskon 20% untuk transaksi pertama dalam 3 bulan.
-Retargeting Sosial Media: Iklan dinamis dengan produk yang sering dibeli.
-Cross-Cluster Optimization:
-Integrasi K-Means & RFM: Gabungkan kriteria Monetary K-Means (skala besar) dengan RFM untuk identifikasi high-value customers yang terabaikan.
+1. Untuk Segmen Champion:
+- Exclusive Benefits: Program VIP dengan diskon tiered atau cashback progresif.
+- Personalized Engagement: Survey kepuasan untuk mempertahankan loyalitas.
+2. Untuk Segmen Loyal:
+- Upselling berbasis Data: Rekomendasi produk premium berdasarkan histori belanja.
+- Flash Sales: Batasi waktu promo untuk memicu aksi cepat.
+3. Untuk Segmen Other:
+- Win-Back Campaign: Diskon 20% untuk transaksi pertama dalam 3 bulan.
+- Retargeting Sosial Media: Iklan dinamis dengan produk yang sering dibeli.
+4. Cross-Cluster Optimization:
+- Integrasi K-Means & RFM: Gabungkan kriteria Monetary K-Means (skala besar) dengan RFM untuk identifikasi high-value customers yang terabaikan.
 ## Kesimpulan 
-RFM > K-Means untuk Personalisasi:
-Metode RFM lebih unggul dalam membedakan perilaku pelanggan secara praktis, sementara K-Means cocok untuk analisis nilai transaksi makro.
-Fokus pada Retensi:
-Mempertahankan Champion dan mengkonversi Loyal menjadi Champion adalah kunci profitabilitas jangka panjang.
-Data-Driven Culture:
-Perlu monitoring berkala (e.g., update segmentasi tiap kuartal) untuk menyesuaikan strategi dengan dinamika perilaku pelanggan.
-Eksperimen Strategi:
-A/B Testing untuk rekomendasi seperti diskon vs free shipping pada segmen Other.
+1. RFM > K-Means untuk Personalisasi:
+- Metode RFM lebih unggul dalam membedakan perilaku pelanggan secara praktis, sementara K-Means cocok untuk analisis nilai transaksi makro.
+2. Fokus pada Retensi:
+- Mempertahankan Champion dan mengkonversi Loyal menjadi Champion adalah kunci profitabilitas jangka panjang.
+3. Data-Driven Culture:
+- Perlu monitoring berkala (e.g., update segmentasi tiap kuartal) untuk menyesuaikan strategi dengan dinamika perilaku pelanggan.
+4. Eksperimen Strategi:
+- A/B Testing untuk rekomendasi seperti diskon vs free shipping pada segmen Other.
 
